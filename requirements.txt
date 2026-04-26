@@ -1,0 +1,39 @@
+# UI Framework
+streamlit
+
+# Core AI & Orchestration
+langchain
+langchain-core
+
+# Model Integrations
+langchain-groq
+langchain-mistralai
+langchain-google-genai
+
+# Tools (Search & Scraping)
+tavily-python
+beautifulsoup4
+requests
+lxml
+
+# Environment Management
+python-dotenv# UI Framework
+streamlit
+
+# Core AI & Orchestration
+langchain
+langchain-core
+
+# Model Integrations
+langchain-groq
+langchain-mistralai
+langchain-google-genai
+
+# Tools (Search & Scraping)
+tavily-python
+beautifulsoup4
+requests
+lxml
+
+# Environment Management
+python-dotenv
